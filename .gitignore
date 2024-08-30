@@ -1,0 +1,9 @@
+__pycache__/
+forecasting_results.csv
+.venv
+.vscode
+Pipfile
+Pipfile.lock
+notebooks/lightning_logs
+# Egg info dir
+*.egg-info/
