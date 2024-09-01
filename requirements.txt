@@ -1,4 +1,5 @@
 sktime
+skchange
 scikit-learn>=1.4
 skpro
 statsmodels
@@ -9,3 +10,4 @@ numpy<2.0
 prophet
 optuna
 pytest
+matplotlib
