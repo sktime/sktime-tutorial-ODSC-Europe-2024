@@ -5,7 +5,7 @@ This tutorial is about [sktime] - a unified framework for machine learning with 
 
 `sktime` is easily extensible by anyone, and interoperable with the python data science stack.
 
-TODO
+This tutorial presents an up-to-date overview of `sktime`; an introduction to forecasting with advanced features including feature engineering, pipelines; handling deep learning and foundation models; anomaly, changepoint detection and segmentation with `sktime`and `skchange`; creating `sktime` compatible components or packages, and marketplace features.
 
 [sktime]: https://www.sktime.net
 
@@ -112,7 +112,7 @@ Open a console and navigate to the root of the repository clone.
 `python -m venv sktime_odsc`
 2. Activate your environment:
  - `source sktime_odsc/bin/activate` for Linux
- - `sktime_pydata/Scripts/activate` for Windows
+ - `sktime_odsc/Scripts/activate` for Windows
 3. Install the requirements:
 `pip install -r requirements_lite`
 4. If using jupyter: make the environment available in jupyter:
