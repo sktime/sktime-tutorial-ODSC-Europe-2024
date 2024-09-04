@@ -1,0 +1,11 @@
+sktime==0.32.3
+scikit-learn>=1.4
+skpro
+statsmodels
+seaborn
+pmdarima
+jupyterlab
+numpy<2.0
+prophet
+optuna
+pytest
