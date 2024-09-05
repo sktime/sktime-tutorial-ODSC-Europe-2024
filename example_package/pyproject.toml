@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ensemble_forecaster"
+version = "0.1.0"
+description = "An example 2nd party sktime library"
+readme = "README.md"
+authors = [{name="Felipe Angelim", email="felipe.angelim@mercadolivre.com"}]
+requires-python = ">=3.9,<3.13"
+dependencies=["sktime"]
+
+[project.optional-dependencies]
+testing = [
+    "pytest>=8.3.2"
+]
+
+
