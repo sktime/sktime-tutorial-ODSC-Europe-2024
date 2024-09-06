@@ -5,7 +5,7 @@ This tutorial is about [sktime] - a unified framework for machine learning with 
 
 `sktime` is easily extensible by anyone, and interoperable with the python data science stack.
 
-This tutorial presents an up-to-date overview of `sktime`; an introduction to forecasting with advanced features including feature engineering, pipelines; handling deep learning and foundation models; anomaly, changepoint detection and segmentation with `sktime`and `skchange`; creating `sktime` compatible components or packages, and marketplace features.
+This tutorial presents an up-to-date overview of `sktime`; an introduction to forecasting with advanced features including hierarchical and probabilistic forecasting, feature engineering, pipelines; handling deep learning and foundation models; anomaly, changepoint detection and segmentation with `sktime`and `skchange`; creating `sktime` compatible components or packages, and marketplace features.
 
 [sktime]: https://www.sktime.net
 
